@@ -46,6 +46,8 @@ nav a{
     padding: 15px 35px;
 }
 
+.fa-solid{margin-right: 5px;}
+
 /* header related styles */
 .header{
     background-color: #fff8f3;
